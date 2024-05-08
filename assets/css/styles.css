@@ -1,0 +1,18 @@
+.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+body.dark-mode {
+    background-color: #282c35;
+    color: #c7cacc;
+}
+
+button {
+    font-size: 16px;
+}
+
+.dark-mode button {
+    background: #4a54e1;
+    color: #fff;
+}
