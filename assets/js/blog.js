@@ -13,6 +13,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     document.getElementById('toggleTheme').addEventListener('click', function() {
-        document.body.classList.toggle('dark-mode'); // Ensure you define .dark-mode in your CSS
+        document.body.classList.toggle('dark-mode');
     });
 });
